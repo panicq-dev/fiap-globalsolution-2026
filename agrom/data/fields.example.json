@@ -1,0 +1,19 @@
+{
+    "farmName":  "Minha fazenda",
+    "locationName":  "Município, UF",
+    "fields":  [
+                   {
+                       "id":  "talhao-1",
+                       "name":  "Talhão 1",
+                       "areaHa":  0,
+                       "crop":  "",
+                       "sowingDate":  "",
+                       "geometry":  {
+                                        "type":  "Polygon",
+                                        "coordinates":  [
+
+                                                        ]
+                                    }
+                   }
+               ]
+}
